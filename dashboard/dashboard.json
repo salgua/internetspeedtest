@@ -56,7 +56,7 @@
               }
             ]
           },
-          "unit": "Mbits"
+          "unit": "Kbits"
         },
         "overrides": []
       },
@@ -134,7 +134,7 @@
               }
             ]
           },
-          "unit": "Mbits"
+          "unit": "Kbits"
         },
         "overrides": []
       },
@@ -213,7 +213,7 @@
       },
       "yaxes": [
         {
-          "format": "Mbits",
+          "format": "Kbits",
           "label": null,
           "logBase": 1,
           "max": null,
@@ -272,7 +272,7 @@
               }
             ]
           },
-          "unit": "Mbits"
+          "unit": "Kbits"
         },
         "overrides": []
       },
@@ -344,7 +344,7 @@
               }
             ]
           },
-          "unit": "Mbits"
+          "unit": "Kbits"
         },
         "overrides": []
       },
@@ -423,7 +423,7 @@
       },
       "yaxes": [
         {
-          "format": "Mbits",
+          "format": "Kbits",
           "label": null,
           "logBase": 1,
           "max": null,
